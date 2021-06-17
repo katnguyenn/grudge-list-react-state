@@ -72,6 +72,10 @@ input[type='submit'].full-width {
   color: #f4466e;
 }
 
+#checkbox:checked ~ .Grudge-forgiven {
+  color: blue;
+}
+
 .NewGrudge {
   display: flex;
 }
